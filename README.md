@@ -1,4 +1,4 @@
-﻿# BetterTcMirror
+# BetterTcMirror
 
 A simple mod to provide a better mirror view for the VR visual novel Tokyo Chronos.
 
@@ -6,7 +6,9 @@ A simple mod to provide a better mirror view for the VR visual novel Tokyo Chron
 
 ### Requirements
 
-- Tokyo Chronos (Steam, v1.0.4)
+- One of these Tokyo Chronos versions
+   - Steam version 1.0.4
+   - Demo version (SteamVR)
 - BepInEx 5.4.11
 
 ### Installation
