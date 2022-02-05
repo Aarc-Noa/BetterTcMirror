@@ -11,6 +11,13 @@ A simple mod to provide a better mirror view for the VR visual novel Tokyo Chron
    - Demo version (SteamVR)
 - BepInEx 5.4.11
 
+### Screenshots
+#### Before
+![Before the mod was installed. Field of view is narrow, the main menu is cut by the window border.](https://user-images.githubusercontent.com/20820425/152656367-0b85670b-bb40-449a-ad26-babf1a196219.png)
+
+#### After (FOV: 69°)
+![After the mod was installed. Field of view is wide, the main menu is not cut in any way.](https://user-images.githubusercontent.com/20820425/152656372-6bb2a8bf-5c73-40d3-afb1-caa7a430ae21.png)
+
 ### Installation
 
 1. Install BepInEx to Tokyo Chronos
@@ -32,7 +39,7 @@ Available options:
 - `CameraOffset` - how much to offset the camera for better view of close objects
     - Type: Vector3
     - Default value: `{ "x": 0.0, "y": 0.0, "z": 0.0 }`
-    - Recommended: offsetting the Z axis up to -.15 
+    - Recommended: not changing from default, actually
   
 ### Known issues
 
